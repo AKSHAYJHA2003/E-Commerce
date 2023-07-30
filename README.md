@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our highly interactive e-commerce website, where users can explore a wide collection of items, personalize their preferences, and proceed to checkout seamlessly. The website also features an admin section equipped with valuable statistics for sellers, order approval functionality, and the ability to manage the available items.
+This is a highly interactive e-commerce website, where users can explore a wide collection of items, personalize their preferences, and proceed to checkout seamlessly. The website also features an admin section equipped with valuable statistics for sellers, order approval functionality, and the ability to manage the available items.
 
 ## Features
 
@@ -70,4 +70,4 @@ npm start
 
 ## Conclusion
 
-Thank you for choosing our e-commerce application website. We strive to provide a seamless and enjoyable shopping experience for our users, along with efficient management tools for our admin team. If you encounter any issues or have any feedback, please don't hesitate to reach out to our support team. Happy shopping!
+Thank you for choosing my e-commerce application website. I aim to provide a seamless and enjoyable shopping experience for  users, along with efficient management tools for the admin team. If you encounter any issues or have any feedback, please don't hesitate to reach out to me. Happy shopping!
